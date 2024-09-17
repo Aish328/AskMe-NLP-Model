@@ -1,0 +1,12 @@
+streamlit
+gemini
+google-generativeai
+docx
+pyPDF2
+io
+re
+zipfile
+google.oauth2
+googleapiclient.discovery
+googleapiclient.http
+
